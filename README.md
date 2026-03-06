@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikanta...</h1>
-<h2 align="center">A passionate Java Fullstack developer</h2>
+<h2 align="center">A Passionate Java Fullstack Developer</h2>
 
 
 <h4>Hello... all <img alt="wishing" width="40" src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif"/> this is my GitHub account</h4>
@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently focusing on improving my skills in **Java Full Stack Development**
 
-- 🌱 I’m continuously learning **Spring Boot, React, and Modern Web Technologies**
+- 🌱 I’m continuously learning **Spring Boot, React, and Web Technologies**
 
 - 👯 I’m open to collaborating on **Java-based projects and innovative web applications**
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, and React**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, React, Mysql** 
 
 - 📫 Reach me at **g.manikantagmt@gmail.com**
 
-- 📄 Know about my experiences [2026_Feb_resume](https://drive.google.com/file/d/1KZ7OKVFPFUC348wli9IUDqKb6GvlbqAH/view?usp=drivesdk)
+- 📄 Briefly look about my resume [2026_Feb_resume](https://drive.google.com/file/d/1KZ7OKVFPFUC348wli9IUDqKb6GvlbqAH/view?usp=drivesdk)
 
 
 <h3 align="left">Connect with me:</h3>
