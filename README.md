@@ -7,6 +7,7 @@
 <img  src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Java+Fullstack+developer;Frontend+developer/Manikanta"/>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+
 <br>
 - 🔭 I’m currently focusing on improving my skills in **Java Full Stack Development**
 
@@ -18,7 +19,7 @@
 
 - 📫 Reach me at **g.manikantagmt@gmail.com**
 
-- 📄 Briefly look about my resume [2026_Feb_resume](https://drive.google.com/file/d/1KZ7OKVFPFUC348wli9IUDqKb6GvlbqAH/view?usp=drivesdk)
+- 📄 Briefly look at my resume [Manikanta_Resume](https://drive.google.com/file/d/1KZ7OKVFPFUC348wli9IUDqKb6GvlbqAH/view?usp=drivesdk)
 
 
 <h3 align="left">Connect with me:</h3>
