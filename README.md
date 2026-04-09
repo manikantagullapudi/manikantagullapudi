@@ -58,6 +58,9 @@
 <a href="https://www.eclipse.org/eclipseide/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="35" height="35"/>
 </a>
+<a href="https://www.jetbrains.com/idea/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="35" height="35"/>
+</a>
 <a href="https://code.visualstudio.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35" height="35"/>
 </a>
