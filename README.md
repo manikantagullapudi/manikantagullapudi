@@ -18,7 +18,7 @@
 
 - 📫 Reach me at **g.manikantagmt@gmail.com**
 
-- 📄 Briefly look at my resume [Manikanta_Resume](https://drive.google.com/file/d/1KZ7OKVFPFUC348wli9IUDqKb6GvlbqAH/view?usp=drivesdk)
+- 📄 Briefly look at my resume [Manikanta_Resume](https://drive.google.com/file/d/1KhDWWuQdNgpS36s_1ApiWFToK7fHXS-I/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
